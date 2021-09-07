@@ -10,6 +10,6 @@ Using this playground, you can play with different variables of the token econom
 
 Open `notebook.ipnyb` using Jupyter and then run the codes.
 
-## Contibution
+## Contribution
 
 Feel free to fork this repo and add your own methods.
