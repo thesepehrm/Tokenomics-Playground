@@ -1,0 +1,5 @@
+.ipynb*
+.pyc*
+*.pyc
+*.pyo
+__pycache__*
